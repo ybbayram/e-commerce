@@ -1,0 +1,23 @@
+tur[
+0 => yuzde,
+1 => tutar veya adet
+]
+
+uygulamaTuru[
+
+0 => Kategoriler
+1 => Alt Kategoriler
+2 => Markalar
+3 => Etiketler
+4 => Tüm Ürünler
+5 => Ürünler
+
+]
+KamanyaSec[
+0 => Kargo
+1 => Sepette İndirim
+2 => X Al y Öde 
+3 => Prmosyon
+4 => Kupon 
+
+]

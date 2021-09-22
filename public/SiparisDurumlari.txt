@@ -1,0 +1,9 @@
+1.Onay Bekliyor
+2.Onaylandı
+3.Kargoya Verildi
+4.İptal Edildi
+5.Teslim Edildi
+6.Tedarik Sürecinde
+7.Hazırlanıyor
+8.Ödeme Bekleniyor
+9.İade Edildi
